@@ -1,5 +1,4 @@
 # 🧠 Memory-Aware AI Chatbot
----
 A production-ready AI chatbot that combines **Short-Term Memory (STM)** and **Long-Term Memory (LTM)** to deliver context-aware, personalized conversations. The chatbot automatically classifies memories into **Semantic**, **Factual**, and **Episodic** categories, enabling intelligent retrieval and long-term context retention using Google Gemini embeddings.
 
 ---
