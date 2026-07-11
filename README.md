@@ -43,7 +43,6 @@ https://memory-chatbot-u9nal3ycbosdiqbucjcgaz.streamlit.app/
 
 ---
 
-
 ## 📂 Memory Architecture
 
 ### Short-Term Memory (STM)
