@@ -54,6 +54,7 @@ https://memory-chatbot-u9nal3ycbosdiqbucjcgaz.streamlit.app/
 ### Long-Term Memory (LTM)
 Stores important information permanently by classifying memories into:
 
+
 - **Semantic Memory** – General knowledge and learned concepts.
 - **Factual Memory** – User-specific facts and preferences.
 - **Episodic Memory** – Past interactions and experiences.
