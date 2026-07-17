@@ -75,6 +75,7 @@ This creates a richer and more personalized context for Gemini.
 
 ---
 
+
 ## 📁 Project Structure
 
 ```
