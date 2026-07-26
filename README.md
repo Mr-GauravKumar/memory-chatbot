@@ -22,7 +22,7 @@ https://memory-chatbot-u9nal3ycbosdiqbucjcgaz.streamlit.app/
 - 🧠 Short-Term Memory (session-based context)
 - 📚 Long-Term Memory with automatic classification:
   - Semantic Memory
-  - Factual Memory
+  - Factual Memory 
   - Episodic Memory
 - 🔍 Semantic search using Gemini Embeddings
 - 📦 ChromaDB vector database for efficient memory retrieval
