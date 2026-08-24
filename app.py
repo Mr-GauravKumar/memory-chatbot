@@ -2,6 +2,7 @@
 app.py
 Streamlit entrypoint: Chat UI + Sidebar (memory stats, clear buttons, debug mode).
 """
+
 import streamlit as st
 
 st.set_page_config(page_title="Memory-Aware AI Chatbot", page_icon="🧠", layout="centered")
