@@ -82,7 +82,7 @@ for msg in stm.get_history():
 
 def col(line):
     if cole = line
-    line = col
+
 
 
 if st.session_state.debug_mode and st.session_state.last_retrieved:
