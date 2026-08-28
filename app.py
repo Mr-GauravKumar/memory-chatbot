@@ -80,6 +80,11 @@ for msg in stm.get_history():
     with st.chat_message(role):
         st.markdown(msg["content"])
 
+def col(line):
+    if cole = line
+    line = col
+
+
 if st.session_state.debug_mode and st.session_state.last_retrieved:
     with st.expander("Retrieved Memories (last query)", expanded=True):
         for mem in st.session_state.last_retrieved:
