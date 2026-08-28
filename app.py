@@ -80,9 +80,6 @@ for msg in stm.get_history():
     with st.chat_message(role):
         st.markdown(msg["content"])
 
-def col(line):
-    if cole = line
-
 
 
 if st.session_state.debug_mode and st.session_state.last_retrieved:
