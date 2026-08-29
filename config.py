@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 # Load .env for local development (no-op if file doesn't exist)
 load_dotenv()
 
+Def
 def get_api_key() -> str:
     """
     Safely retrieve the Gemini API key.
